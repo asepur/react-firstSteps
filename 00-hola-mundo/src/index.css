@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    font-family: system-ui;
+    display: grid;
+    place-content: center;
+    background-color: #222;
+    min-height: 100vh;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
